@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/COSE-C/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/cn-cbor/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/fmtlib/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/googletest/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/json/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/libevent/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/mbedtls/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../third_party/mdns/repo" vcs="Git" />
+  </component>
+</project>
